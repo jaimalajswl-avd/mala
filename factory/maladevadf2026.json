@@ -1,0 +1,15 @@
+{
+	"name": "maladevadf2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64bfd08d-8df7-4f1f-b3ce-8c12a40c2958",
+		"tenantId": "b41a0f82-a365-4514-bce8-a34cac507d40"
+	}
+}
